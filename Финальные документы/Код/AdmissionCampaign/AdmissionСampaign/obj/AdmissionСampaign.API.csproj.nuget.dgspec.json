@@ -1,0 +1,229 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Anuitex\\Desktop\\New folder (4)\\AdmissionСampaign\\AdmissionСampaign\\AdmissionСampaign.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Anuitex\\Desktop\\New folder (4)\\AdmissionСampaign\\AdmissionСampaign.DataAccess\\AdmissionСampaign.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Anuitex\\Desktop\\New folder (4)\\AdmissionСampaign\\AdmissionСampaign.DataAccess\\AdmissionСampaign.DataAccess.csproj",
+        "projectName": "AdmissionСampaign.DataAccess",
+        "projectPath": "C:\\Users\\Anuitex\\Desktop\\New folder (4)\\AdmissionСampaign\\AdmissionСampaign.DataAccess\\AdmissionСampaign.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Anuitex\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Anuitex\\Desktop\\New folder (4)\\AdmissionСampaign\\AdmissionСampaign.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Anuitex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://109.86.209.148:9712/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Anuitex\\Desktop\\New folder (4)\\AdmissionСampaign\\AdmissionСampaign.Services\\AdmissionСampaign.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Anuitex\\Desktop\\New folder (4)\\AdmissionСampaign\\AdmissionСampaign.Services\\AdmissionСampaign.Services.csproj",
+        "projectName": "AdmissionСampaign.Services",
+        "projectPath": "C:\\Users\\Anuitex\\Desktop\\New folder (4)\\AdmissionСampaign\\AdmissionСampaign.Services\\AdmissionСampaign.Services.csproj",
+        "packagesPath": "C:\\Users\\Anuitex\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Anuitex\\Desktop\\New folder (4)\\AdmissionСampaign\\AdmissionСampaign.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Anuitex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://109.86.209.148:9712/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Anuitex\\Desktop\\New folder (4)\\AdmissionСampaign\\AdmissionСampaign.DataAccess\\AdmissionСampaign.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Anuitex\\Desktop\\New folder (4)\\AdmissionСampaign\\AdmissionСampaign.DataAccess\\AdmissionСampaign.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Anuitex\\Desktop\\New folder (4)\\AdmissionСampaign\\AdmissionСampaign\\AdmissionСampaign.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Anuitex\\Desktop\\New folder (4)\\AdmissionСampaign\\AdmissionСampaign\\AdmissionСampaign.API.csproj",
+        "projectName": "AdmissionСampaign.API",
+        "projectPath": "C:\\Users\\Anuitex\\Desktop\\New folder (4)\\AdmissionСampaign\\AdmissionСampaign\\AdmissionСampaign.API.csproj",
+        "packagesPath": "C:\\Users\\Anuitex\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Anuitex\\Desktop\\New folder (4)\\AdmissionСampaign\\AdmissionСampaign\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Anuitex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://109.86.209.148:9712/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Anuitex\\Desktop\\New folder (4)\\AdmissionСampaign\\AdmissionСampaign.Services\\AdmissionСampaign.Services.csproj": {
+                "projectPath": "C:\\Users\\Anuitex\\Desktop\\New folder (4)\\AdmissionСampaign\\AdmissionСampaign.Services\\AdmissionСampaign.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\sherb\source\repos\AdmissionСampaign\AdmissionСampaign.DataAccess\bin\Debug\net5.0\AdmissionСampaign.DataAccess.deps.json
+C:\Users\sherb\source\repos\AdmissionСampaign\AdmissionСampaign.DataAccess\bin\Debug\net5.0\AdmissionСampaign.DataAccess.runtimeconfig.json
+C:\Users\sherb\source\repos\AdmissionСampaign\AdmissionСampaign.DataAccess\bin\Debug\net5.0\AdmissionСampaign.DataAccess.runtimeconfig.dev.json
+C:\Users\sherb\source\repos\AdmissionСampaign\AdmissionСampaign.DataAccess\bin\Debug\net5.0\AdmissionСampaign.DataAccess.dll
+C:\Users\sherb\source\repos\AdmissionСampaign\AdmissionСampaign.DataAccess\bin\Debug\net5.0\ref\AdmissionСampaign.DataAccess.dll
+C:\Users\sherb\source\repos\AdmissionСampaign\AdmissionСampaign.DataAccess\bin\Debug\net5.0\AdmissionСampaign.DataAccess.pdb
+C:\Users\sherb\source\repos\AdmissionСampaign\AdmissionСampaign.DataAccess\obj\Debug\net5.0\AdmissionСampaign.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sherb\source\repos\AdmissionСampaign\AdmissionСampaign.DataAccess\obj\Debug\net5.0\AdmissionСampaign.DataAccess.AssemblyInfoInputs.cache
+C:\Users\sherb\source\repos\AdmissionСampaign\AdmissionСampaign.DataAccess\obj\Debug\net5.0\AdmissionСampaign.DataAccess.AssemblyInfo.cs
+C:\Users\sherb\source\repos\AdmissionСampaign\AdmissionСampaign.DataAccess\obj\Debug\net5.0\AdmissionСampaign.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\sherb\source\repos\AdmissionСampaign\AdmissionСampaign.DataAccess\obj\Debug\net5.0\AdmissionСampaign.DataAccess.dll
+C:\Users\sherb\source\repos\AdmissionСampaign\AdmissionСampaign.DataAccess\obj\Debug\net5.0\ref\AdmissionСampaign.DataAccess.dll
+C:\Users\sherb\source\repos\AdmissionСampaign\AdmissionСampaign.DataAccess\obj\Debug\net5.0\AdmissionСampaign.DataAccess.pdb
+C:\Users\sherb\source\repos\AdmissionСampaign\AdmissionСampaign.DataAccess\obj\Debug\net5.0\AdmissionСampaign.DataAccess.genruntimeconfig.cache
+C:\Users\sherb\source\repos\AdmissionСampaign\AdmissionСampaign.DataAccess\obj\Debug\net5.0\AdmissionСampaign.DataAccess.csproj.AssemblyReference.cache

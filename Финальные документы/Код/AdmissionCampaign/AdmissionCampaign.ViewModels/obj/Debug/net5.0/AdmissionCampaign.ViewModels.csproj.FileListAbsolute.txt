@@ -1,0 +1,12 @@
+C:\Users\sherb\Desktop\Курсовая работа\AdmissionCampaign\AdmissionCampaign.ViewModels\bin\Debug\net5.0\AdmissionCampaign.ViewModels.deps.json
+C:\Users\sherb\Desktop\Курсовая работа\AdmissionCampaign\AdmissionCampaign.ViewModels\bin\Debug\net5.0\AdmissionCampaign.ViewModels.dll
+C:\Users\sherb\Desktop\Курсовая работа\AdmissionCampaign\AdmissionCampaign.ViewModels\bin\Debug\net5.0\ref\AdmissionCampaign.ViewModels.dll
+C:\Users\sherb\Desktop\Курсовая работа\AdmissionCampaign\AdmissionCampaign.ViewModels\bin\Debug\net5.0\AdmissionCampaign.ViewModels.pdb
+C:\Users\sherb\Desktop\Курсовая работа\AdmissionCampaign\AdmissionCampaign.ViewModels\obj\Debug\net5.0\AdmissionCampaign.ViewModels.csproj.AssemblyReference.cache
+C:\Users\sherb\Desktop\Курсовая работа\AdmissionCampaign\AdmissionCampaign.ViewModels\obj\Debug\net5.0\AdmissionCampaign.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sherb\Desktop\Курсовая работа\AdmissionCampaign\AdmissionCampaign.ViewModels\obj\Debug\net5.0\AdmissionCampaign.ViewModels.AssemblyInfoInputs.cache
+C:\Users\sherb\Desktop\Курсовая работа\AdmissionCampaign\AdmissionCampaign.ViewModels\obj\Debug\net5.0\AdmissionCampaign.ViewModels.AssemblyInfo.cs
+C:\Users\sherb\Desktop\Курсовая работа\AdmissionCampaign\AdmissionCampaign.ViewModels\obj\Debug\net5.0\AdmissionCampaign.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\sherb\Desktop\Курсовая работа\AdmissionCampaign\AdmissionCampaign.ViewModels\obj\Debug\net5.0\AdmissionCampaign.ViewModels.dll
+C:\Users\sherb\Desktop\Курсовая работа\AdmissionCampaign\AdmissionCampaign.ViewModels\obj\Debug\net5.0\ref\AdmissionCampaign.ViewModels.dll
+C:\Users\sherb\Desktop\Курсовая работа\AdmissionCampaign\AdmissionCampaign.ViewModels\obj\Debug\net5.0\AdmissionCampaign.ViewModels.pdb

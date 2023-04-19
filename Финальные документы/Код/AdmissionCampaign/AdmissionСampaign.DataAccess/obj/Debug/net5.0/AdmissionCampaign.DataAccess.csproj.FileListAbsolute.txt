@@ -1,0 +1,30 @@
+C:\Users\Anuitex\Desktop\New folder (4)\AdmissionСampaign\AdmissionСampaign.DataAccess\bin\Debug\net5.0\AdmissionCampaign.DataAccess.deps.json
+C:\Users\Anuitex\Desktop\New folder (4)\AdmissionСampaign\AdmissionСampaign.DataAccess\bin\Debug\net5.0\AdmissionCampaign.DataAccess.runtimeconfig.json
+C:\Users\Anuitex\Desktop\New folder (4)\AdmissionСampaign\AdmissionСampaign.DataAccess\bin\Debug\net5.0\AdmissionCampaign.DataAccess.runtimeconfig.dev.json
+C:\Users\Anuitex\Desktop\New folder (4)\AdmissionСampaign\AdmissionСampaign.DataAccess\bin\Debug\net5.0\AdmissionCampaign.DataAccess.dll
+C:\Users\Anuitex\Desktop\New folder (4)\AdmissionСampaign\AdmissionСampaign.DataAccess\bin\Debug\net5.0\ref\AdmissionCampaign.DataAccess.dll
+C:\Users\Anuitex\Desktop\New folder (4)\AdmissionСampaign\AdmissionСampaign.DataAccess\bin\Debug\net5.0\AdmissionCampaign.DataAccess.pdb
+C:\Users\Anuitex\Desktop\New folder (4)\AdmissionСampaign\AdmissionСampaign.DataAccess\obj\Debug\net5.0\AdmissionCampaign.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Anuitex\Desktop\New folder (4)\AdmissionСampaign\AdmissionСampaign.DataAccess\obj\Debug\net5.0\AdmissionCampaign.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anuitex\Desktop\New folder (4)\AdmissionСampaign\AdmissionСampaign.DataAccess\obj\Debug\net5.0\AdmissionCampaign.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Anuitex\Desktop\New folder (4)\AdmissionСampaign\AdmissionСampaign.DataAccess\obj\Debug\net5.0\AdmissionCampaign.DataAccess.AssemblyInfo.cs
+C:\Users\Anuitex\Desktop\New folder (4)\AdmissionСampaign\AdmissionСampaign.DataAccess\obj\Debug\net5.0\AdmissionCampaign.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Anuitex\Desktop\New folder (4)\AdmissionСampaign\AdmissionСampaign.DataAccess\obj\Debug\net5.0\AdmissionCampaign.DataAccess.dll
+C:\Users\Anuitex\Desktop\New folder (4)\AdmissionСampaign\AdmissionСampaign.DataAccess\obj\Debug\net5.0\ref\AdmissionCampaign.DataAccess.dll
+C:\Users\Anuitex\Desktop\New folder (4)\AdmissionСampaign\AdmissionСampaign.DataAccess\obj\Debug\net5.0\AdmissionCampaign.DataAccess.pdb
+C:\Users\Anuitex\Desktop\New folder (4)\AdmissionСampaign\AdmissionСampaign.DataAccess\obj\Debug\net5.0\AdmissionCampaign.DataAccess.genruntimeconfig.cache
+C:\Users\sherb\Desktop\Курсовая работа\AdmissionCampaign\AdmissionСampaign.DataAccess\bin\Debug\net5.0\AdmissionCampaign.DataAccess.deps.json
+C:\Users\sherb\Desktop\Курсовая работа\AdmissionCampaign\AdmissionСampaign.DataAccess\bin\Debug\net5.0\AdmissionCampaign.DataAccess.runtimeconfig.json
+C:\Users\sherb\Desktop\Курсовая работа\AdmissionCampaign\AdmissionСampaign.DataAccess\bin\Debug\net5.0\AdmissionCampaign.DataAccess.runtimeconfig.dev.json
+C:\Users\sherb\Desktop\Курсовая работа\AdmissionCampaign\AdmissionСampaign.DataAccess\bin\Debug\net5.0\AdmissionCampaign.DataAccess.dll
+C:\Users\sherb\Desktop\Курсовая работа\AdmissionCampaign\AdmissionСampaign.DataAccess\bin\Debug\net5.0\ref\AdmissionCampaign.DataAccess.dll
+C:\Users\sherb\Desktop\Курсовая работа\AdmissionCampaign\AdmissionСampaign.DataAccess\bin\Debug\net5.0\AdmissionCampaign.DataAccess.pdb
+C:\Users\sherb\Desktop\Курсовая работа\AdmissionCampaign\AdmissionСampaign.DataAccess\obj\Debug\net5.0\AdmissionCampaign.DataAccess.csproj.AssemblyReference.cache
+C:\Users\sherb\Desktop\Курсовая работа\AdmissionCampaign\AdmissionСampaign.DataAccess\obj\Debug\net5.0\AdmissionCampaign.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sherb\Desktop\Курсовая работа\AdmissionCampaign\AdmissionСampaign.DataAccess\obj\Debug\net5.0\AdmissionCampaign.DataAccess.AssemblyInfoInputs.cache
+C:\Users\sherb\Desktop\Курсовая работа\AdmissionCampaign\AdmissionСampaign.DataAccess\obj\Debug\net5.0\AdmissionCampaign.DataAccess.AssemblyInfo.cs
+C:\Users\sherb\Desktop\Курсовая работа\AdmissionCampaign\AdmissionСampaign.DataAccess\obj\Debug\net5.0\AdmissionCampaign.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\sherb\Desktop\Курсовая работа\AdmissionCampaign\AdmissionСampaign.DataAccess\obj\Debug\net5.0\AdmissionCampaign.DataAccess.dll
+C:\Users\sherb\Desktop\Курсовая работа\AdmissionCampaign\AdmissionСampaign.DataAccess\obj\Debug\net5.0\ref\AdmissionCampaign.DataAccess.dll
+C:\Users\sherb\Desktop\Курсовая работа\AdmissionCampaign\AdmissionСampaign.DataAccess\obj\Debug\net5.0\AdmissionCampaign.DataAccess.pdb
+C:\Users\sherb\Desktop\Курсовая работа\AdmissionCampaign\AdmissionСampaign.DataAccess\obj\Debug\net5.0\AdmissionCampaign.DataAccess.genruntimeconfig.cache

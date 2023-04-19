@@ -1,0 +1,15 @@
+C:\Users\sherb\source\repos\AdmissionСampaign\AdmissionСampaign.Services\bin\Debug\net5.0\AdmissionСampaign.Services.deps.json
+C:\Users\sherb\source\repos\AdmissionСampaign\AdmissionСampaign.Services\bin\Debug\net5.0\AdmissionСampaign.Services.dll
+C:\Users\sherb\source\repos\AdmissionСampaign\AdmissionСampaign.Services\bin\Debug\net5.0\ref\AdmissionСampaign.Services.dll
+C:\Users\sherb\source\repos\AdmissionСampaign\AdmissionСampaign.Services\bin\Debug\net5.0\AdmissionСampaign.Services.pdb
+C:\Users\sherb\source\repos\AdmissionСampaign\AdmissionСampaign.Services\bin\Debug\net5.0\AdmissionСampaign.DataAccess.dll
+C:\Users\sherb\source\repos\AdmissionСampaign\AdmissionСampaign.Services\bin\Debug\net5.0\AdmissionСampaign.DataAccess.pdb
+C:\Users\sherb\source\repos\AdmissionСampaign\AdmissionСampaign.Services\obj\Debug\net5.0\AdmissionСampaign.Services.csproj.AssemblyReference.cache
+C:\Users\sherb\source\repos\AdmissionСampaign\AdmissionСampaign.Services\obj\Debug\net5.0\AdmissionСampaign.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sherb\source\repos\AdmissionСampaign\AdmissionСampaign.Services\obj\Debug\net5.0\AdmissionСampaign.Services.AssemblyInfoInputs.cache
+C:\Users\sherb\source\repos\AdmissionСampaign\AdmissionСampaign.Services\obj\Debug\net5.0\AdmissionСampaign.Services.AssemblyInfo.cs
+C:\Users\sherb\source\repos\AdmissionСampaign\AdmissionСampaign.Services\obj\Debug\net5.0\AdmissionСampaign.Services.csproj.CoreCompileInputs.cache
+C:\Users\sherb\source\repos\AdmissionСampaign\AdmissionСampaign.Services\obj\Debug\net5.0\AdmissionСampaign.Services.csproj.CopyComplete
+C:\Users\sherb\source\repos\AdmissionСampaign\AdmissionСampaign.Services\obj\Debug\net5.0\AdmissionСampaign.Services.dll
+C:\Users\sherb\source\repos\AdmissionСampaign\AdmissionСampaign.Services\obj\Debug\net5.0\ref\AdmissionСampaign.Services.dll
+C:\Users\sherb\source\repos\AdmissionСampaign\AdmissionСampaign.Services\obj\Debug\net5.0\AdmissionСampaign.Services.pdb

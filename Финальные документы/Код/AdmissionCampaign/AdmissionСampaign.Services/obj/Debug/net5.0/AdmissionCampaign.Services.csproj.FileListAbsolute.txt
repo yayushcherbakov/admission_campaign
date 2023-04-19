@@ -1,0 +1,32 @@
+C:\Users\Anuitex\Desktop\New folder (4)\AdmissionСampaign\AdmissionСampaign.Services\bin\Debug\net5.0\AdmissionCampaign.Services.deps.json
+C:\Users\Anuitex\Desktop\New folder (4)\AdmissionСampaign\AdmissionСampaign.Services\bin\Debug\net5.0\AdmissionCampaign.Services.dll
+C:\Users\Anuitex\Desktop\New folder (4)\AdmissionСampaign\AdmissionСampaign.Services\bin\Debug\net5.0\ref\AdmissionCampaign.Services.dll
+C:\Users\Anuitex\Desktop\New folder (4)\AdmissionСampaign\AdmissionСampaign.Services\bin\Debug\net5.0\AdmissionCampaign.Services.pdb
+C:\Users\Anuitex\Desktop\New folder (4)\AdmissionСampaign\AdmissionСampaign.Services\bin\Debug\net5.0\AdmissionCampaign.DataAccess.dll
+C:\Users\Anuitex\Desktop\New folder (4)\AdmissionСampaign\AdmissionСampaign.Services\bin\Debug\net5.0\AdmissionCampaign.DataAccess.pdb
+C:\Users\Anuitex\Desktop\New folder (4)\AdmissionСampaign\AdmissionСampaign.Services\obj\Debug\net5.0\AdmissionCampaign.Services.csproj.AssemblyReference.cache
+C:\Users\Anuitex\Desktop\New folder (4)\AdmissionСampaign\AdmissionСampaign.Services\obj\Debug\net5.0\AdmissionCampaign.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anuitex\Desktop\New folder (4)\AdmissionСampaign\AdmissionСampaign.Services\obj\Debug\net5.0\AdmissionCampaign.Services.AssemblyInfoInputs.cache
+C:\Users\Anuitex\Desktop\New folder (4)\AdmissionСampaign\AdmissionСampaign.Services\obj\Debug\net5.0\AdmissionCampaign.Services.AssemblyInfo.cs
+C:\Users\Anuitex\Desktop\New folder (4)\AdmissionСampaign\AdmissionСampaign.Services\obj\Debug\net5.0\AdmissionCampaign.Services.csproj.CoreCompileInputs.cache
+C:\Users\Anuitex\Desktop\New folder (4)\AdmissionСampaign\AdmissionСampaign.Services\obj\Debug\net5.0\AdmissionCampaign.Services.csproj.CopyComplete
+C:\Users\Anuitex\Desktop\New folder (4)\AdmissionСampaign\AdmissionСampaign.Services\obj\Debug\net5.0\AdmissionCampaign.Services.dll
+C:\Users\Anuitex\Desktop\New folder (4)\AdmissionСampaign\AdmissionСampaign.Services\obj\Debug\net5.0\ref\AdmissionCampaign.Services.dll
+C:\Users\Anuitex\Desktop\New folder (4)\AdmissionСampaign\AdmissionСampaign.Services\obj\Debug\net5.0\AdmissionCampaign.Services.pdb
+C:\Users\sherb\Desktop\Курсовая работа\AdmissionCampaign\AdmissionСampaign.Services\bin\Debug\net5.0\AdmissionCampaign.Services.deps.json
+C:\Users\sherb\Desktop\Курсовая работа\AdmissionCampaign\AdmissionСampaign.Services\bin\Debug\net5.0\AdmissionCampaign.Services.dll
+C:\Users\sherb\Desktop\Курсовая работа\AdmissionCampaign\AdmissionСampaign.Services\bin\Debug\net5.0\ref\AdmissionCampaign.Services.dll
+C:\Users\sherb\Desktop\Курсовая работа\AdmissionCampaign\AdmissionСampaign.Services\bin\Debug\net5.0\AdmissionCampaign.Services.pdb
+C:\Users\sherb\Desktop\Курсовая работа\AdmissionCampaign\AdmissionСampaign.Services\bin\Debug\net5.0\AdmissionCampaign.DataAccess.dll
+C:\Users\sherb\Desktop\Курсовая работа\AdmissionCampaign\AdmissionСampaign.Services\bin\Debug\net5.0\AdmissionCampaign.DataAccess.pdb
+C:\Users\sherb\Desktop\Курсовая работа\AdmissionCampaign\AdmissionСampaign.Services\obj\Debug\net5.0\AdmissionCampaign.Services.csproj.AssemblyReference.cache
+C:\Users\sherb\Desktop\Курсовая работа\AdmissionCampaign\AdmissionСampaign.Services\obj\Debug\net5.0\AdmissionCampaign.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sherb\Desktop\Курсовая работа\AdmissionCampaign\AdmissionСampaign.Services\obj\Debug\net5.0\AdmissionCampaign.Services.AssemblyInfoInputs.cache
+C:\Users\sherb\Desktop\Курсовая работа\AdmissionCampaign\AdmissionСampaign.Services\obj\Debug\net5.0\AdmissionCampaign.Services.AssemblyInfo.cs
+C:\Users\sherb\Desktop\Курсовая работа\AdmissionCampaign\AdmissionСampaign.Services\obj\Debug\net5.0\AdmissionCampaign.Services.csproj.CoreCompileInputs.cache
+C:\Users\sherb\Desktop\Курсовая работа\AdmissionCampaign\AdmissionСampaign.Services\obj\Debug\net5.0\AdmissionCampaign.Services.csproj.CopyComplete
+C:\Users\sherb\Desktop\Курсовая работа\AdmissionCampaign\AdmissionСampaign.Services\obj\Debug\net5.0\AdmissionCampaign.Services.dll
+C:\Users\sherb\Desktop\Курсовая работа\AdmissionCampaign\AdmissionСampaign.Services\obj\Debug\net5.0\ref\AdmissionCampaign.Services.dll
+C:\Users\sherb\Desktop\Курсовая работа\AdmissionCampaign\AdmissionСampaign.Services\obj\Debug\net5.0\AdmissionCampaign.Services.pdb
+C:\Users\sherb\Desktop\Курсовая работа\AdmissionCampaign\AdmissionСampaign.Services\bin\Debug\net5.0\AdmissionCampaign.ViewModels.dll
+C:\Users\sherb\Desktop\Курсовая работа\AdmissionCampaign\AdmissionСampaign.Services\bin\Debug\net5.0\AdmissionCampaign.ViewModels.pdb
